@@ -1,37 +1,15 @@
-## Welcome to GitHub Pages
+## IX24
 
-You can use the [editor on GitHub](https://github.com/ix24/ix24.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+IX24 is a neutral Internet Exchange, in Telehouse North, Docklands.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### Participate
 
-### Markdown
+Anyone with an ASN (Autonomous System Number) and able to peer using BGP4, is welcome to join.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### Connect
 
-```markdown
-Syntax highlighted code block
+Available port sizes are 10GbE, 25GbE, 40GbE, 50GbE, and 100GbE. 400GbE will be available when eqipment allows.
 
-# Header 1
-## Header 2
-### Header 3
+### Fees
 
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/ix24/ix24.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+There are no fees. Participants must arrange their own physical link to the IX, and provide a suitable transceiver to support their connection to the IX.
