@@ -8,7 +8,7 @@ Anyone with an ASN (Autonomous System Number) and able to peer using BGP4, is we
 
 ### Connect
 
-Available port sizes are 10GbE, 25GbE, 40GbE, 50GbE, and 100GbE. 400GbE will be available when eqipment allows.
+Available port sizes are 10GbE, 25GbE, 40GbE, 50GbE, and 100GbE. 400GbE will be available when equipment allows.
 
 ### Fees
 
